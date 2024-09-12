@@ -10,6 +10,14 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
+# Assignment 1
+
+![winter tree](winter_color_plot.png)
+
+critique of a chart
+![chart](chartpic.png)
+This pie chart provides a clear visual representation of employment or further study outcomes with diverse categories and distinct color coding. However, some areas could be improved. Some categories with 0% (e.g., “Communications business” and “Management consulting”) add unnecessary clutter and should be omitted. Labels are small and difficult to read, especially for categories like “Public service” and “Banking and investment.” Adding a title, clarifying vague categories like “Other service industries,” and including a data source would enhance context. Grouping smaller percentages into one category and using a legend could also simplify the chart and improve readability.
+
 ```{r}
 1 + 1
 ```
